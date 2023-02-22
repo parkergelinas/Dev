@@ -1,0 +1,13 @@
+c:\Users\parke\Dev\Rust\Rust\Rust Contracts\Prac\RestApi\target\debug\deps\indexmap-ae237f41ab19b829.rmeta: C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\lib.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\macros.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\equivalent.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\mutable_keys.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\util.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\map.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\map\core.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\map\core\raw.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\set.rs
+
+c:\Users\parke\Dev\Rust\Rust\Rust Contracts\Prac\RestApi\target\debug\deps\indexmap-ae237f41ab19b829.d: C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\lib.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\macros.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\equivalent.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\mutable_keys.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\util.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\map.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\map\core.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\map\core\raw.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\set.rs
+
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\lib.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\macros.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\equivalent.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\mutable_keys.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\util.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\map.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\map\core.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\map\core\raw.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\indexmap-1.9.1\src\set.rs:

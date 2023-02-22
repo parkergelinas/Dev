@@ -1,0 +1,11 @@
+c:\Users\parke\Dev\Rust\Rust\Rust Contracts\Prac\RestApi\target\debug\deps\time_macros_impl-2ef07d186016f834.dll: C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\lib.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\date.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\ext.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\offset.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\time.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\time_crate\mod.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\time_crate\date.rs
+
+c:\Users\parke\Dev\Rust\Rust\Rust Contracts\Prac\RestApi\target\debug\deps\time_macros_impl-2ef07d186016f834.d: C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\lib.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\date.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\ext.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\offset.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\time.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\time_crate\mod.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\time_crate\date.rs
+
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\lib.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\date.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\ext.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\offset.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\time.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\time_crate\mod.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\time-macros-impl-0.1.2\src\time_crate\date.rs:

@@ -1,0 +1,169 @@
+:root {
+  --dark: rgb(27, 27, 27);
+  --yellow: rgb(253, 216, 53);
+  --blue: rgb(98, 0, 234);
+
+  --c1: rgb(38, 70, 83);
+  --c2: rgb(42, 157, 143);
+
+  --left-color: var(--c1);
+  --right-color: var(--c2);
+}
+
+body {
+  background-color: var(--dark);
+  margin: 0px;
+}
+
+.side {
+  display: grid;
+  height: 100vh;
+  overflow: hidden;
+  place-items: center;
+  position: absolute;
+  width: 100%;
+}
+
+.side .title {
+  font-family: "Rubik", sans-serif;
+  font-size: 8vw;
+  margin: 0px 10vw;
+  width: 80vw;
+}
+
+.side .fancy {
+  font-family: "Lobster", cursive;
+  font-size: 1.3em;
+  line-height: 0.8em;
+}
+
+#left-side {
+  background-color: var(--left-color);
+  width: 60%;
+  z-index: 2;
+}
+
+#left-side .title {
+  color: white;
+}
+
+#left-side .fancy {
+  color: var(--right-color);
+}
+
+#right-side {
+  background-color: var(--right-color);
+}
+
+#right-side .title {
+  color: var(--dark);
+}
+
+#right-side .fancy {
+  color: white;
+}
+
+/* Customize your main colors in :root variables */
+:root {
+  --main-background-color: #c1a1ce;
+  --card-background-color: #875496;
+  --card-background-lighter-color: #e09ef3;
+  --main-text-color: #000000;
+  --title-text-color: rgb(0, 0, 0);
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+body {
+  background-color: var(--main-background-color);
+  /*background: url("img/background.png");
+  background-size: cover;*/
+
+  font-size: 1.1em;
+}
+
+h2,
+p {
+  color: var(--main-text-color);
+}
+
+h3 {
+  font-weight: normal;
+}
+
+.MuiFab-extended {
+  height: auto;
+  padding-right: 0 !important;
+}
+
+.MuiFab-label {
+  font-weight: bold;
+}
+
+.MuiPaper-root {
+  background-color: #000000 !important;
+}
+
+.MuiButton-containedPrimary:not(.MuiButton-fullWidth) {
+  border-radius: 24px !important;
+  -webkit-border-radius: 24px !important;
+  -moz-border-radius: 24px !important;
+  -ms-border-radius: 24px !important;
+  -o-border-radius: 24px !important;
+  padding: 6px 16px;
+}
+
+.MuiButton-label {
+  font-size: 1.2em;
+}
+
+.MuiLinearProgress-colorPrimary {
+  background-color: var(--main-text-color) !important;
+}
+
+.neon-button {
+  font-size: 1rem;
+
+  display: inline-block;
+  cursor: pointer;
+  text-decoration: none;
+  color: var(--clr-neon);
+  border: var(--clr-neon) 0.125em solid;
+  padding: 0.25em 1.5em;
+  border-radius: 0.25em;
+
+  text-shadow: 0 0 0.25em hsl(0 0% 100% / 0.3), 0 0 0.45em currentColor;
+
+  box-shadow: inset 0 0 1em 0 var(--clr-neon), 0 0 0.5em 0 var(--clr-neon);
+
+  position: relative;
+}
+
+/* .neon-button::before {
+  pointer-events: none;
+  content: "";
+  position: absolute;
+  background: var(--clr-neon);
+  top: 120%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
+  filter: blur(1em);
+  opacity: 0.5;
+  -webkit-transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
+  -moz-transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
+  -ms-transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
+  -o-transform: perspective(1em) rotateX(40deg) scale(1, 0.35);
+  -webkit-filter: blur(1em);
+} */
+
+.neon-button:hover,
+.neon-button:focus {
+  background: var(--clr-neon);
+  color: var(--clr-neon);
+  text-shadow: none;
+}

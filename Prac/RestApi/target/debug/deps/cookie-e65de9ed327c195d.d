@@ -1,0 +1,12 @@
+C:\Users\parke\Dev\Rust\Rust\Rust Contracts\Prac\RestApi\target\debug\deps\cookie-e65de9ed327c195d.rmeta: C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\lib.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\builder.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\parse.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\jar.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\delta.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\draft.rs
+
+C:\Users\parke\Dev\Rust\Rust\Rust Contracts\Prac\RestApi\target\debug\deps\libcookie-e65de9ed327c195d.rlib: C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\lib.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\builder.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\parse.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\jar.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\delta.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\draft.rs
+
+C:\Users\parke\Dev\Rust\Rust\Rust Contracts\Prac\RestApi\target\debug\deps\cookie-e65de9ed327c195d.d: C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\lib.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\builder.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\parse.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\jar.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\delta.rs C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\draft.rs
+
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\lib.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\builder.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\parse.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\jar.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\delta.rs:
+C:\Users\parke\.cargo\registry\src\github.com-1ecc6299db9ec823\cookie-0.14.4\src\draft.rs:
