@@ -1,0 +1,9 @@
+
+
+
+
+1 / AI chatbot that can answer customer inquiries about a product or service
+
+2 / Content generator that can write high-quality articles on a given topic.
+
+3 / Summarization tool that can automatically summarize long articles or documents

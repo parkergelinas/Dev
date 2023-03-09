@@ -4,7 +4,7 @@ root = Tk()
 root.title("Simple Calculator")
 root.geometry("288x430")
 
-e = Entry(root, width=35, borderwidth=5, bg="black")
+e = Entry(root, width=35, borderwidth=5, bg="white")
 e.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 
 # e.insert(0, "")

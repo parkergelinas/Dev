@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Financial Portfolio</title>
+
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background-color: #f2f2f2;
+      }
+
+      h1 {
+        font-size: 28px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+      }
+
+      p {
+        font-size: 20px;
+        margin-bottom: 10px;
+      }
+
+      span {
+        font-weight: bold;
+      }
+
+      #stock-price {
+        color: #0d6efd;
+      }
+
+      #stock-change {
+        color: #dc3545;
+      }
+
+      #stock-percent-change {
+        color: #0dcaf0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Stock Data</h1>
+    <form id="stock-form">
+      <label for="stock-symbol">Enter a stock symbol (e.g. AAPL):</label>
+      <input type="text" id="stock-symbol" name="stock-symbol" />
+      <button type="submit">Get Data</button>
+    </form>
+    <div id="stock-data">
+      <h2>Stock Data</h2>
+      <ul>
+        <li>Price: <span id="stock-price"></span></li>
+        <li>Change: <span id="stock-change"></span></li>
+        <li>Percent Change: <span id="stock-percent-change"></span></li>
+      </ul>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

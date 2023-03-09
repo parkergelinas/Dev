@@ -26,6 +26,7 @@ def reverse():
 
 window = tk.Tk()
 window.title("Temperature Converter")
+window.geometry("150x150")
 
 ent_temp = tk.Entry(master=window)
 ent_temp.grid(row=0, column=0, columnspan=2)
