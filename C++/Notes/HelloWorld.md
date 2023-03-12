@@ -9,7 +9,8 @@
 
 ### Program Structure
 
-> #include <iostream>;
+> - The first line instructs the compiler to locate the file that contains a library called iostream. This library contains code that allows for input and output.
+> - The main() function houses all the instructions for the program.
 >
 > int main() {
 >
@@ -17,7 +18,4 @@
 > > std::cout << "2\n";
 > > std::cout << "3\n";
 >
-> > }
->
-> - The first line instructs the compiler to locate the file that contains a library called iostream. This library contains code that allows for input and output.
-> - The main() function houses all the instructions for the program.
+> }
