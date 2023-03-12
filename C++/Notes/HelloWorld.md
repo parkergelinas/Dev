@@ -13,11 +13,5 @@
 - The main() function houses all the instructions for the program.
 
   > int main() {
-
-  > std::cout << "1\n";
-
-  > std::cout << "2\n";
-
-  > std::cout << "3\n";
-
+  > std::cout << "1\n"; std::cout << "2\n"; std::cout << "3\n";
   > }
